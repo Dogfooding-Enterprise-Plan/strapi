@@ -9548,7 +9548,7 @@ __metadata:
     lodash: "npm:4.18.1"
     msw: "npm:2.13.4"
     prop-types: "npm:^15.8.1"
-    purest: "npm:4.0.2"
+    purest: "npm:4.0.3"
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
     react-intl: "npm:6.6.2"
@@ -26639,16 +26639,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"purest@npm:4.0.2":
-  version: 4.0.2
-  resolution: "purest@npm:4.0.2"
+"purest@npm:4.0.3":
+  version: 4.0.3
+  resolution: "purest@npm:4.0.3"
   dependencies:
     "@simov/deep-extend": "npm:^1.0.0"
-    qs: "npm:^6.10.3"
-    request-compose: "npm:^2.1.4"
+    qs: "npm:^6.11.0"
+    request-compose: "npm:^2.1.6"
     request-multipart: "npm:^1.0.0"
     request-oauth: "npm:^1.0.1"
-  checksum: 10c0/2808a34779d1a7b3009a5114e97e1947d98f709ad88c380dfa28f4090456054e1f35803e0aabd95184b620d4345d0b7fcc01d233ccdccd8a0b8ff1436b7af5a9
+  checksum: 10c0/221322f02bd4a1f2515363e05677f71232256535392732d07723d0f176fdb02c6a12b84c9c0679a57571b327d6a08d2e78f4da162a45bffe9eb8e2bd09d7cc77
   languageName: node
   linkType: hard
 
@@ -26668,7 +26668,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"qs@npm:^6.10.3, qs@npm:^6.11.0, qs@npm:^6.5.2, qs@npm:^6.9.6":
+"qs@npm:^6.11.0, qs@npm:^6.5.2, qs@npm:^6.9.6":
   version: 6.14.1
   resolution: "qs@npm:6.14.1"
   dependencies:
@@ -27476,7 +27476,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"request-compose@npm:^2.1.4, request-compose@npm:^2.1.7":
+"request-compose@npm:^2.1.6, request-compose@npm:^2.1.7":
   version: 2.1.7
   resolution: "request-compose@npm:2.1.7"
   checksum: 10c0/a0e8aae02a8941e6703445217c7737ae5c9fafc32d2af5325966d9320dbffe89fe371de04b969e226d7e41506f88661b8d42f174832c578be6b3eb5e16ecade2
